@@ -1,0 +1,37 @@
+baseURL = 'https://adeline-7e3d5.web.app/'
+#relativeURLs = true
+
+languageCode = 'en-us'
+title = 'Adeline'
+theme = "mediumish-gohugo-theme"
+
+author = "Akram TABKA"
+copyright = "Adeline, all rights reserved."
+
+summaryLength = 25
+
+
+[params]
+    logo = "/images/adeline.jpg"
+    description ="the clean blog!"
+    #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+#    name = "Adeline"
+    thumbnail = "/images/adeline.jpg"
+    description = "Creator of this blog."
+
+[params.index]
+    picture = "/images/adeline.jpg"
+#    title = "Adeline"
+    subtitle = "Atelier d'architecture & Design"
+#    mdtext = 's'
+
+
+[params.social]
+#  github = "<username>"
+#  linkedin = "<username>"
+#  xing = "<username>"
+#  medium = "<username>"
+#  twitter = "<username>"
+  instagram = "atelieradeline_architecture"
