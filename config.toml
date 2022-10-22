@@ -1,5 +1,5 @@
-baseURL = 'https://adeline-7e3d5.web.app/'
-#relativeURLs = true
+#baseURL = 'https://adeline-7e3d5.web.app/'
+relativeURLs = true
 
 languageCode = 'en-us'
 title = 'Adeline'
