@@ -35,3 +35,10 @@ summaryLength = 25
 #  medium = "<username>"
 #  twitter = "<username>"
   instagram = "atelieradeline_architecture"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
